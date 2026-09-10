@@ -1,0 +1,17 @@
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/AsmMacroIoLibV8.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/Chipset/AArch64.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/Chipset/AArch64Mmu.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/Library/ArmLib.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64ArchTimerSupport.S
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Lib.c
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Lib.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Support.S
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/ArmLibSupport.S
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/ArmLibSupportV8.S
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/ArmLib.c
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/ArmLibPrivate.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiBaseType.h
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/DEBUG/AutoGen.h

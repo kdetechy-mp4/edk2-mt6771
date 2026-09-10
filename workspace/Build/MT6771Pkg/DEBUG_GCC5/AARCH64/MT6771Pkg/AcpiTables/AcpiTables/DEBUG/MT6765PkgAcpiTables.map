@@ -1,0 +1,122 @@
+
+Merging object attributes
+
+
+Merging program properties
+
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj: dynamic relocation against `Gtdt' in read-only section `.rodata.ReferenceAcpiTable'
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .data          0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .bss           0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .comment       0x0000000000000000       0x27 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .note.gnu.property
+                0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                PECOFF_HEADER_SIZE = 0x0
+                0x0000000000000000                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000000        0x0
+ .gnu.version_d
+                0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.gnu.version    0x0000000000000000        0x0
+ .gnu.version   0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.gnu.version_r  0x0000000000000000        0x0
+ .gnu.version_r
+                0x0000000000000000        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.text           0x0000000000000000       0x28
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.ReferenceAcpiTable
+                0x0000000000000000        0x8 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+                0x0000000000000000                ReferenceAcpiTable
+ *(.got .got.*)
+ .got           0x0000000000000008        0x8 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+                0x0000000000000008                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x0000000000000010       0x18 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000000028        0x0
+ .plt           0x0000000000000028        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.data           0x0000000000000040       0x60
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.Gtdt     0x0000000000000040       0x60 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+                0x0000000000000040                Gtdt
+ .data.rel.ro   0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ *(.bss .bss.*)
+
+.dynbss         0x00000000000000a0        0x0
+ .dynbss        0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x00000000000000a0       0x18
+ *(.rela .rela.*)
+ .rela.got      0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .rela.plt      0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .rela.bss      0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .rela.data.rel.ro
+                0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .rela.ifunc    0x00000000000000a0        0x0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+ .rela.rodata.ReferenceAcpiTable
+                0x00000000000000a0       0x18 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.hii
+ *(.hii)
+
+.build-id       0x00000000000000b8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000000b8       0x24 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+LOAD /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+OUTPUT(/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.dll elf64-littleaarch64)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000      0x23d
+ .debug_info    0x0000000000000000      0x23d /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.debug_abbrev   0x0000000000000000       0xc0
+ .debug_abbrev  0x0000000000000000       0xc0 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.debug_aranges  0x0000000000000000       0x20
+ .debug_aranges
+                0x0000000000000000       0x20 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.debug_line     0x0000000000000000       0x51
+ .debug_line    0x0000000000000000       0x51 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+
+.debug_str      0x0000000000000000      0x37f
+ .debug_str     0x0000000000000000      0x37f /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+                                        0x3ff (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000      0x166
+ .debug_line_str
+                0x0000000000000000      0x166 /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/AcpiTables/AcpiTables/OUTPUT/./Gtdt.obj
+                                        0x1e1 (size before relaxing)

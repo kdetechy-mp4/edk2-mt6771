@@ -1,0 +1,7 @@
+
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/WatchdogTimerDxe/WatchdogTimer/OUTPUT/AutoGen.obj.deps
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/WatchdogTimerDxe/WatchdogTimer/OUTPUT/WatchdogTimer.obj.deps
+
+               

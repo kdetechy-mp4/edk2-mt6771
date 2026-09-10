@@ -1,0 +1,11 @@
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/GetPowerOfTwo64.obj:  /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BaseLib/GetPowerOfTwo64.c \
+ /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/DEBUG/AutoGen.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PcdLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BaseLib/BaseLibInternals.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseMemoryLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h
+
+# Updated 

@@ -1,0 +1,9 @@
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmSmcLib/AArch64
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmSmcLib
+-I/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmSmcLib/ArmSmcLib/DEBUG
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Test/UnitTest/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include

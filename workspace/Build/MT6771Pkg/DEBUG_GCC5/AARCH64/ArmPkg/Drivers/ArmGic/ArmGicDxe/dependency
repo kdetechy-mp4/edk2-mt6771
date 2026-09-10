@@ -1,0 +1,13 @@
+
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/GicV3/ArmGicV3Dxe.obj.deps
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/GicV2/ArmGicV2Dxe.obj.deps
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/ArmGicDxe.obj.deps
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/AutoGen.obj.deps
+
+-include /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicDxe/OUTPUT/ArmGicCommonDxe.obj.deps
+
+               

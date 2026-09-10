@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+.text
+.align 3
+
+.extern CEntryPoint
+.extern ArmWriteCpacr
+.extern ArmEnableInstructionCache
+.extern ArmEnableDataCache
+.extern ArmInvalidateTlb
+
+.global _ModuleEntryPoint ; .type _ModuleEntryPoint, %function
+
+.global _StackBase
+.global _StackSize
+
+_StackBase:
+  .quad 0x40C00000
+
+_StackSize:
+  .quad 0x00040000
+
+
+_ModuleEntryPoint:
+  mov x0, #0
+
+
+  mrs x3, mpidr_el1
+  mov x2, x3
+  mov x1, #0x0000100
+  and x2, x2, x1
+  cmp x2, #0x0
+  mov x0, #0
+  beq _CpuIndex
+
+  mov x0, #4
+_CpuIndex:
+  mov x2, x3
+  mov x1, #0xf
+  and x2, x2, x1
+  add x0, x0, x2
+
+
+  mov x19, x0
+
+
+
+  bl ArmDisableInterrupts
+
+
+  bl ArmDisableCachesAndMmu
+
+
+  bl ArmInvalidateInstructionCache
+
+
+  bl ArmInvalidateTlb
+
+_SetupExceptionVector:
+  ldr x0, =0x40C40000
+  ldr x1, dead
+  mov x2, #0
+
+_FillVectors:
+
+  str x1, [x0, x2]
+  adds x2, x2, #8
+  cmp x2, #0x800
+  bne _FillVectors
+
+
+  mrs x0, CurrentEl
+
+
+  cmp x0, #0x4
+  b.eq _SetupEl1VBar
+
+  cmp x0, #0x5
+  b.eq _SetupEl1VBar
+
+_SetupEl1VBar:
+  msr vbar_el1, x0
+
+_DonNotTrap_VFP_SIMD:
+  mrs x0, CPACR_EL1
+
+  orr x0, x0, #0x300000
+  msr CPACR_EL1, x0
+
+_SetupPrimaryCoreStack:
+  ldr x0, _StackBase
+  ldr x1, _StackSize
+
+  add x4, x0, x1
+  add sp, x4, #0
+
+_EnableCache:
+  bl ArmInvalidateDataCache
+  bl ArmEnableInstructionCache
+  bl ArmEnableDataCache
+
+_PrepareArguments:
+
+  ldr x0, _StackBase
+  ldr x1, _StackSize
+
+  bl CEntryPoint
+
+.align 3
+dead:
+  b dead

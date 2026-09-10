@@ -1,0 +1,6 @@
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/AsmMacroIoLibV8.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPlatformPkg/Library/ArmPlatformStackLib/AArch64/ArmPlatformStackLib.S
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PcdLib.h
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/ArmPlatformStackLib/ArmPlatformStackLib/DEBUG/AutoGen.h

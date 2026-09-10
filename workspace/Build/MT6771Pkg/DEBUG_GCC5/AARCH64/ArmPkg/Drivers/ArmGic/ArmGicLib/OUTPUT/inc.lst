@@ -1,0 +1,12 @@
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Drivers/ArmGic/GicV3/AArch64
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Drivers/ArmGic/GicV2
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Drivers/ArmGic
+-I/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Drivers/ArmGic/ArmGicLib/DEBUG
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPlatformPkg
+-I/home/edk2mtk/edk2-mt6765/edk2/ArmPlatformPkg/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Test/UnitTest/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64

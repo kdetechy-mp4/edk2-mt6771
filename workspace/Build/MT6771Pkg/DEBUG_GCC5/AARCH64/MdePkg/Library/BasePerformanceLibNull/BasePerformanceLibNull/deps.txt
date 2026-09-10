@@ -1,0 +1,7 @@
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PcdLib.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PerformanceLib.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BasePerformanceLibNull/PerformanceLib.c
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/DEBUG/AutoGen.h

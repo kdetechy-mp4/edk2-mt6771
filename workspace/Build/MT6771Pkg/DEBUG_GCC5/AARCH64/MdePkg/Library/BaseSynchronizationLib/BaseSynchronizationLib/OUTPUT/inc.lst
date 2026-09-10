@@ -1,0 +1,7 @@
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BaseSynchronizationLib/AArch64
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BaseSynchronizationLib
+-I/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/DEBUG
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Test/UnitTest/Include
+-I/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64

@@ -1,0 +1,13 @@
+PcdTokenNumber: 
+('PcdConOutColumn', 'gEfiMdeModulePkgTokenSpaceGuid') : 1
+('PcdConOutRow', 'gEfiMdeModulePkgTokenSpaceGuid') : 2
+('PcdNvStoreDefaultValueBuffer', 'gEfiMdeModulePkgTokenSpaceGuid') : 10
+('PcdSetNvStoreDefaultId', 'gEfiMdeModulePkgTokenSpaceGuid') : 11
+('PcdSetupConOutColumn', 'gEfiMdeModulePkgTokenSpaceGuid') : 3
+('PcdSetupConOutRow', 'gEfiMdeModulePkgTokenSpaceGuid') : 4
+('PcdSetupVideoHorizontalResolution', 'gEfiMdeModulePkgTokenSpaceGuid') : 5
+('PcdSetupVideoVerticalResolution', 'gEfiMdeModulePkgTokenSpaceGuid') : 6
+('PcdTestKeyUsed', 'gEfiMdeModulePkgTokenSpaceGuid') : 7
+('PcdVideoHorizontalResolution', 'gEfiMdeModulePkgTokenSpaceGuid') : 8
+('PcdVideoVerticalResolution', 'gEfiMdeModulePkgTokenSpaceGuid') : 9
+('PcdVpdBaseAddress64', 'gEfiMdeModulePkgTokenSpaceGuid') : 12

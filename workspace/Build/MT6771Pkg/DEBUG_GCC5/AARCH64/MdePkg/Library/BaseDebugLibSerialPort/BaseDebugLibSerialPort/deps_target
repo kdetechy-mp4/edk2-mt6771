@@ -1,0 +1,13 @@
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseMemoryLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugPrintErrorLevelLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PcdLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PrintLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/SerialPortLib.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/SerialIo.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiBaseType.h:
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BaseDebugLibSerialPort/DebugLib.c:
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/DEBUG/AutoGen.h:

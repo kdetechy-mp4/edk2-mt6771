@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'AARCH64'}
+BuildOptionPcd: []
+Active Platform: /home/edk2mtk/edk2-mt6765/MT6771Pkg/Devices/cph1989.dsc
+Flash Image Definition: /home/edk2mtk/edk2-mt6765/MT6771Pkg/MT6771Pkg.fdf

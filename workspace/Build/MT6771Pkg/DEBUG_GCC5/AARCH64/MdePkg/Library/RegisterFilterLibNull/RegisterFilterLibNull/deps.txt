@@ -1,0 +1,5 @@
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/RegisterFilterLib.h
+/home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull.c
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/DEBUG/AutoGen.h

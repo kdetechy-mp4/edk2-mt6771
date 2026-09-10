@@ -1,0 +1,47 @@
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/EmbeddedPkg/Library/VirtualRealTimeClockLib/VirtualRealTimeClockLib/OUTPUT/VirtualRealTimeClockLib.obj:  /home/edk2mtk/edk2-mt6765/edk2/EmbeddedPkg/Library/VirtualRealTimeClockLib/VirtualRealTimeClockLib.c \
+ /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/EmbeddedPkg/Library/VirtualRealTimeClockLib/VirtualRealTimeClockLib/DEBUG/AutoGen.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/PiDxe.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiBaseType.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiSpec.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiMultiPhase.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Guid/WinCertificate.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/DevicePath.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Guid/PcAnsi.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Bluetooth.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi60.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi51.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi50.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi40.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi30.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi20.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/Acpi10.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/AcpiAml.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/SimpleTextIn.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/SimpleTextInEx.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/SimpleTextOut.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiPxe.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiGpt.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Guid/HiiFormMapMethodGuid.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiDxeCis.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiMultiPhase.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiFirmwareVolume.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiFirmwareFile.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiBootMode.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiHob.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiDependency.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiStatusCode.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Protocol/DebugSupport.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/PeImage.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Pi/PiS3BootScript.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/IoLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/EmbeddedPkg/Include/Library/RealTimeClockLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/TimerLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/EmbeddedPkg/Include/Library/TimeBaseLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/UefiRuntimeLib.h
+
+# Updated 

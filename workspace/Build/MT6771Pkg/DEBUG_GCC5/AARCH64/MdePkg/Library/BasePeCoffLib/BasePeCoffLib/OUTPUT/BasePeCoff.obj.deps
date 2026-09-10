@@ -1,0 +1,12 @@
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoff.obj:  /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BasePeCoffLib/BasePeCoff.c \
+ /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/DEBUG/AutoGen.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Library/BasePeCoffLib/BasePeCoffLibInternals.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PeCoffLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/IndustryStandard/PeImage.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/BaseMemoryLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/DebugLib.h \
+ /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Library/PeCoffExtraActionLib.h
+
+# Updated 

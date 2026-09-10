@@ -1,0 +1,4 @@
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/DefaultExceptionHandlerLib/DefaultExceptionHandlerLib.inf
+/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/DefaultExceptionHandlerLib/DefaultExceptionHandlerLib/DEBUG/AutoGen.h
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/DefaultExceptionHandlerLib/AArch64/DefaultExceptionHandler.c
+/home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/DefaultExceptionHandlerLib/DefaultExceptionHandlerUefi.c

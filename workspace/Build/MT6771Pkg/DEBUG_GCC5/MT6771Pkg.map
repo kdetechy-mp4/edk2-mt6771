@@ -1,0 +1,6 @@
+PrePi (Fixed Flash Address, BaseAddress=0x0050001160, EntryPoint=0x0050007ec8, Type=TE)
+(GUID=3E401783-CC94-4FCD-97BC-BD35AC369D2F .textbaseaddress=0x0050001240 .databaseaddress=0x0050009bc0)
+(IMAGE=/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/MT6771Pkg/PrePi/PeiUniCore/DEBUG/PrePi.efi)
+
+
+
