@@ -1,9 +1,0 @@
-/home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/OUTPUT/AArch64/AArch64Support.obj:  /home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Library/ArmLib/AArch64/AArch64Support.S \
- /home/edk2mtk/edk2-mt6765/workspace/Build/MT6771Pkg/DEBUG_GCC5/AARCH64/ArmPkg/Library/ArmLib/ArmBaseLib/DEBUG/AutoGen.h \
- /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/Base.h \
- /home/edk2mtk/edk2-mt6765/edk2/MdePkg/Include/AArch64/ProcessorBind.h \
- /home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/Chipset/AArch64.h \
- /home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/Chipset/AArch64Mmu.h \
- /home/edk2mtk/edk2-mt6765/edk2/ArmPkg/Include/AsmMacroIoLibV8.h
-
-# Updated 
